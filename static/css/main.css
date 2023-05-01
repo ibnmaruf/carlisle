@@ -9,9 +9,9 @@ body {
 
     /* default light-mode colors */
     --foreground-default: #222;
-    --foreground-light: #778;
+    --foreground-light: #222;
     --background-default: #f8f8f8;
-    --background-block: #eee;
+    --background-block: #f8f8f8;
 }
 
 html {
